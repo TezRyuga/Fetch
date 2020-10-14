@@ -1,4 +1,4 @@
-# aFetch
+# Fetch
 > ### 💻 A personal Simple and Clean fetch 
 
 ![](https://github.com/TezRyuga/FlowerFetch/blob/master/rsc/sample.png)
